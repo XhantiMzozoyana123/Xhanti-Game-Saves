@@ -1,0 +1,2 @@
+# Store everything byte-for-byte; never convert line endings in save files.
+* -text

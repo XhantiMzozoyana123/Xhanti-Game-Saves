@@ -1,0 +1,401 @@
+02:41:00:945 (00029268) > [Startup] Marvel's Spider-Man 2
+02:41:00:945 (00029268) > [Startup] ==============
+02:41:00:945 (00029268) > [Startup] 
+02:41:00:945 (00029268) > [Startup] Build: v1.130.1.0
+02:41:00:945 (00029268) > [Startup] Windows 11.0 (build 22621.4317)
+02:41:00:945 (00029268) > [Startup] Distribution platform: Steam
+02:41:00:945 (00029268) > [Startup] Game directory: C:\Users\<username>\Documents\Marvel's Spider-Man 2\
+02:41:00:945 (00029268) > [Startup] Working directory: D:\Games\Marvel's Spider-Man 2
+02:41:00:945 (00029268) > [Startup] Run ID: F830-5973-95F3-0083
+02:41:00:945 (00029268) > [Startup] 
+02:41:00:945 (00029268) > [Startup] Memory statistics:
+02:41:00:945 (00029268) > [Startup]   Total RAM = 16.0 GB (16364 MB)
+02:41:00:945 (00029268) > [Startup]   Avail RAM = 7.6 GB (7806 MB)
+02:41:00:945 (00029268) > [Startup]   Total virtual memory = 131072.0 GB (134217727 MB)
+02:41:00:945 (00029268) > [Startup]   Avail virtual memory = 131062.1 GB (134207585 MB)
+02:41:00:945 (00029268) > [Startup]   Total page file = 26.5 GB (27101 MB)
+02:41:00:945 (00029268) > [Startup]   Avail page file = 10.1 GB (10367 MB)
+02:41:00:945 (00029268) > [Startup] 
+02:41:00:945 (00029268) > [NxApp] PreInit
+02:41:00:945 (00029268) > [NxProcessorInfo] Processor info:
+02:41:00:945 (00029268) > [NxProcessorInfo] 	Group Count:       	1
+02:41:00:945 (00029268) > [NxProcessorInfo] 	Physical Core:     	4
+02:41:00:945 (00029268) > [NxProcessorInfo] 	Logical  Core:     	8
+02:41:00:945 (00029268) > [NxProcessorInfo] 	Distinct L3 Cache: 	1
+02:41:00:945 (00029268) > [NxProcessorInfo] 	Family:            	25
+02:41:00:945 (00029268) > [NxProcessorInfo] 	Model:             	17
+02:41:00:945 (00029268) > [NxProcessorInfo] 	Name:              	AMD EPYC 9354 32-Core Processor                
+02:41:00:945 (00029268) > [NxProcessorInfo] 	AVX:               	1
+02:41:00:945 (00029268) > [NxProcessorInfo] 	F16C:              	1
+02:41:00:945 (00029268) > [NxProcessorInfo] 	AVX2:              	1
+02:41:00:945 (00029268) > [NxProcessorInfo] 	NormalAffinity(auto)
+02:41:00:945 (00029268) > [SwapChain] Initializing...
+02:41:00:945 (00029268) > [DXGI] Initializing...
+02:41:05:854 (00029268) > [NxApp] Streamline was successfully initialized.
+02:41:05:855 (00029268) > [DXGI] Successfully initialized.
+02:41:05:855 (00029268) > [Render] Enumerating adapters:
+02:41:05:855 (00029268) > [Render] 	Adapter 0:
+02:41:05:855 (00029268) > [Monitor] 		Description             : NVIDIA RTX 2000 Ada Generation
+02:41:05:855 (00029268) > [Monitor] 		Vendor                  : nVidia (10de)
+02:41:05:855 (00029268) > [Monitor] 		Device                  : 28b0
+02:41:05:855 (00029268) > [Monitor] 		Sub system              : 187010de
+02:41:05:855 (00029268) > [Monitor] 		Revision                : 161
+02:41:05:855 (00029268) > [Monitor] 		Dedicated Video Memory  : 15136 MB
+02:41:05:855 (00029268) > [Monitor] 		Dedicated System Memory : 0000 MB
+02:41:05:855 (00029268) > [Monitor] 		Shared System Memory    : 8182 MB
+02:41:05:855 (00029268) > [Monitor] 
+02:41:05:855 (00029268) > [Render] Loading NVAPI...
+02:41:05:921 (00029268) > [Render] Done loading NVAPI
+02:41:05:921 (00029268) > [Render] 	Adapter 1:
+02:41:05:921 (00029268) > [Monitor] 		Description             : Microsoft Basic Render Driver
+02:41:05:921 (00029268) > [Monitor] 		Vendor                  : Unknown (1414)
+02:41:05:921 (00029268) > [Monitor] 		Device                  : 8c
+02:41:05:921 (00029268) > [Monitor] 		Sub system              : 0
+02:41:05:921 (00029268) > [Monitor] 		Revision                : 0
+02:41:05:921 (00029268) > [Monitor] 		Dedicated Video Memory  : 0000 MB
+02:41:05:921 (00029268) > [Monitor] 		Dedicated System Memory : 0000 MB
+02:41:05:921 (00029268) > [Monitor] 		Shared System Memory    : 8182 MB
+02:41:05:921 (00029268) > [Monitor] 
+02:41:05:921 (00029268) > [Render] Enumerating monitors:
+02:41:05:921 (00029268) > [Render] 	Monitor 0: handle = 0000000000010001, aspect = 1.74, rounded aspect = 1.74
+02:41:05:921 (00029268) > [Render] 
+02:41:05:924 (00029268) > [Render] 	Monitor handle = 0000000000010001, pixel aspect ratio = 1.02
+02:41:05:924 (00029268) > [SwapChain] Successfully initialized.
+02:41:05:924 (00029268) > [Render] Enumerating Display Modes:
+02:41:05:925 (00029268) > [Render] Querying NVAPI for Surround modes
+02:41:05:967 (00029268) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() - no surround modes detected
+02:41:05:967 (00029268) > [Render] 	Monitor '1 (NVIDIA RTX 2000 Ada Generation(1))' (0000000000010001): rect(0 1920 0 1080)
+02:41:05:967 (00029268) > [Render] 		- Mode  0 :  800 x  600 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:41:05:967 (00029268) > [Render] 		- Mode  1 : 1024 x  768 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:41:05:967 (00029268) > [Render] 		- Mode  2 : 1152 x  864 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:41:05:967 (00029268) > [Render] 		- Mode  3 : 1152 x  864 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:41:05:967 (00029268) > [Render] 		- Mode  4 : 1280 x  720 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:41:05:967 (00029268) > [Render] 		- Mode  5 : 1280 x  720 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:41:05:967 (00029268) > [Render] 		- Mode  6 : 1280 x  768 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:41:05:967 (00029268) > [Render] 		- Mode  7 : 1280 x  768 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:41:05:967 (00029268) > [Render] 		- Mode  8 : 1280 x  800 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:41:05:967 (00029268) > [Render] 		- Mode  9 : 1280 x  800 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:41:05:967 (00029268) > [Render] 		- Mode 10 : 1280 x  960 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:41:05:967 (00029268) > [Render] 		- Mode 11 : 1280 x  960 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:41:05:967 (00029268) > [Render] 		- Mode 12 : 1280 x 1024 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:41:05:967 (00029268) > [Render] 		- Mode 13 : 1280 x 1024 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:41:05:967 (00029268) > [Render] 		- Mode 14 : 1360 x  768 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:41:05:967 (00029268) > [Render] 		- Mode 15 : 1360 x  768 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:41:05:967 (00029268) > [Render] 		- Mode 16 : 1366 x  768 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:41:05:967 (00029268) > [Render] 		- Mode 17 : 1366 x  768 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:41:05:967 (00029268) > [Render] 		- Mode 18 : 1440 x 1080 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:41:05:967 (00029268) > [Render] 		- Mode 19 : 1440 x 1080 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:41:05:967 (00029268) > [Render] 		- Mode 20 : 1600 x  900 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:41:05:967 (00029268) > [Render] 		- Mode 21 : 1600 x  900 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:41:05:967 (00029268) > [Render] 		- Mode 22 : 1600 x 1024 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:41:05:967 (00029268) > [Render] 		- Mode 23 : 1600 x 1024 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:41:05:967 (00029268) > [Render] 		- Mode 24 : 1680 x 1050 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:41:05:967 (00029268) > [Render] 		- Mode 25 : 1680 x 1050 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:41:05:967 (00029268) > [Render] 		- Mode 26 : 1920 x 1080 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:41:05:967 (00029268) > [Render] ***** Additional Monitor Output Info *****
+02:41:05:967 (00029268) > [Render] 		BitsPerColor: 8
+02:41:05:967 (00029268) > [Render] 		Primaries: R=0.6396;0.3301  G=0.2998;0.5996  B=0.1504;0.0596  White-Point=0.3125;0.3291
+02:41:05:967 (00029268) > [Render] 		HDR: No (Color Space: DXGI_COLOR_SPACE_RGB_FULL_G22_NONE_P709)
+02:41:05:967 (00029268) > [Render] 		Luminance: Min=0.5000 Max=270.0000 MaxFullFrame=270.0000
+02:41:05:967 (00029268) > [Render] ******************************************
+02:41:05:967 (00029268) > [Render] 
+02:41:11:097 (00029268) > [NxReflex] Reflex support result:Result::eOk
+02:41:11:098 (00029268) > [NxReflex] DLSSG support result:Result::eErrorOSDisabledHWS
+02:41:11:098 (00029268) > [NxApp] Querying GPU Driver Info...
+02:41:11:098 (00029268) > [NxApp] Enumerating available display adapters:
+02:41:11:173 (00029268) > [NxApp] 		Red Hat QXL controller
+02:41:11:173 (00029268) > [NxApp] 		NVIDIA RTX 2000 Ada Generation (active)
+02:41:11:173 (00029268) > [NxApp] Successfully found GPU Driver Info
+02:41:11:173 (00029268) > [D3D] Max supported feature level: 11.0
+02:41:11:173 (00029268) > [Render] Disabled D3D12 experimentals
+02:41:11:293 (00029268) > [Render] VMEM Budget: 14368 MB
+02:41:11:293 (00029268) > [Render] VMEM Available: 14362 MB
+02:41:13:243 (00029268) > [Render] GPU node count: 1
+02:41:13:309 (00029268) > [NxFfx] Anti-Lag2 not supported. Error code (-2147024809)
+02:41:13:309 (00029268) > [NxD3D] RAY TRACING ENABLED: Ray Tracing Tier 1.1 support detected
+02:41:13:310 (00029268) > [NxD3D] Old Driver detected. Driver version: 565.90
+02:41:30:370 (00029268) > [NxReflex] Reflex support result:Result::eOk
+02:41:30:373 (00029268) > [NxApp] PreInit successful.
+02:41:30:373 (00029268) > [NxApp] Initializing module prefetch thread
+02:41:30:593 (00029268) > [NxUpscaler] SL DLSS support: Result::eOk
+02:41:30:593 (00029268) > [NxUpscaler] SL DLSS RR support: Result::eOk
+02:41:31:378 (00029268) > [NxUpscaler] XeSS init, code = 0
+02:41:31:387 (00029268) > [Input] Keyboard language: "English (United States)" (id: 1033)
+02:41:31:387 (00029268) > [Input] Keyboard physical layout: "US" (id: 00000409)
+02:41:31:388 (00029268) > [Input] Joystick            "Controller (XBOX 360 For Windows)"   product 654 vendor 1118 version 0 usage 5 usagePage 1 xinput yes
+02:41:31:388 (00029268) > [Input] Failed to retrieve setup device 1.
+02:41:31:388 (00029268) > [Input] Failed to retrieve setup device 2.
+02:41:31:389 (00029268) > [Input] Human Input Device  "HID-compliant vendor-defined device"   product 47820 vendor 255 version 1 usage 2 usagePage 65280
+02:41:31:389 (00029268) > [Input] Human Input Device  "HID-compliant vendor-defined device"   product 47820 vendor 255 version 1 usage 1 usagePage 65280
+02:41:31:389 (00029268) > [Input] Human Input Device  "HID-compliant consumer control device"   product 47820 vendor 255 version 1 usage 1 usagePage 12
+02:41:31:389 (00029268) > [Input] Mouse               "HID-compliant mouse"   id 256 buttons 3 sampleRate 0 horizontalWheel no
+02:41:31:389 (00029268) > [Input] Mouse               "PS/2 Compatible Mouse"   id 32 buttons 5 sampleRate 100 horizontalWheel no
+02:41:31:389 (00029268) > [Input] Mouse               "HID-compliant mouse"   id 256 buttons 5 sampleRate 0 horizontalWheel no
+02:41:31:389 (00029268) > [Input] Mouse               "HID-compliant mouse"   id 256 buttons 5 sampleRate 0 horizontalWheel no
+02:41:31:389 (00029268) > [Input] Keyboard            "HID Keyboard Device"   type 81 subType 0 mode 1 function 12 indicators 3 total 109
+02:41:31:389 (00029268) > [Input] Keyboard            "HID Keyboard Device"   type 81 subType 0 mode 1 function 12 indicators 3 total 264
+02:41:31:389 (00029268) > [Input] Keyboard            "Standard PS/2 Keyboard"   type 7 subType 0 mode 1 function 12 indicators 3 total 101
+02:41:31:397 (00029268) > [Input] Failed to get Windows.Gaiming.Input interfaces
+
+02:41:31:397 (00029268) > [Input] Could not initialize Windows.Gaming.Input
+02:41:31:431 (00029268) > [Input] PsPc libScePad.dll not detected
+02:41:31:431 (00029268) > [Input] Using LibScePad
+02:41:31:434 (00029268) > [Input] Gamepads connected: 0 -> 1
+02:41:31:434 (00029268) > [Input] Gamepad for main player: 0
+02:41:31:434 (00029268) > [XInput] Enumerating available xusb hid devices:
+
+02:41:31:439 (00029268) > [Xinput] Found device: {745A17A0-74D3-11D0-B6FE-00A0C90F57DA}(USB\VID_045E&PID_028E&IG_00),USB Input Device 
+	USB\VID_045E&PID_028E&IG_00\2&DEE0F28&0&00
+
+02:41:31:442 (00029268) > [Xinput] Found device: {D61CA365-5AF4-4486-998B-9DB4734C6CA3}(USB\VID_045E&PID_028E),Xbox 360 Controller for Windows 
+	USB\VID_045E&PID_028E\01
+
+02:41:51:377 (00029268) > [NxReflex] Reflex support result:Result::eOk
+02:41:51:388 (00029268) > [NxReflex] DLSSG support result:Result::eErrorOSDisabledHWS
+02:41:51:388 (00029268) > [NxApp] Driver Desc: NVIDIA RTX 2000 Ada Generation
+02:41:51:388 (00029268) > [NxApp] Driver Version: 565.90
+02:41:51:388 (00029268) > [**************************************************Display + Graphics Settings**************************************************] 
+02:41:51:388 (00029268) > [Settings] DirectX Version: 12
+02:41:51:388 (00029268) > [Settings] Window mode: Fullscreen
+02:41:51:388 (00029268) > [Settings] Fullscreen display mode:
+02:41:51:388 (00029268) > [Settings] 	Displaying on monitor: 0
+02:41:51:388 (00029268) > [Settings] 	Resolution: 1920x1080
+02:41:51:388 (00029268) > [Settings] 	Forced Aspect Ratio: Auto
+02:41:51:388 (00029268) > [Settings] 	HDR: Off
+02:41:51:388 (00029268) > [Settings] 	OS reported Refresh rate: 60
+02:41:51:388 (00029268) > [Settings] 	VSync: On
+02:41:51:388 (00029268) > [Settings] 	Reflex: Low Latency
+02:41:51:389 (00029268) > [Settings] 	Anti-Lag2: Off
+02:41:51:389 (00029268) > [Settings] 	Frame generation: None
+02:41:51:389 (00029268) > [Settings] 	Dynamic resolution FPS target: 60
+02:41:51:389 (00029268) > [Settings] Anti aliasing: DLAA
+02:41:51:389 (00029268) > [Settings] Upscale method: DLSS
+02:41:51:389 (00029268) > [Settings] Upscale quality: Dynamic
+02:41:51:389 (00029268) > [Settings] Upscale sharpen value: 0.000000
+02:41:51:389 (00029268) > [Settings] Graphics Options:
+02:41:51:389 (00029268) > [Settings] 	RT Reflections: Off
+02:41:51:389 (00029268) > [Settings] 	RT Interiors: Off
+02:41:51:389 (00029268) > [Settings] 	RT Shadows: Off
+02:41:51:389 (00029268) > [Settings] 	RT Ambient Occlusion: Off
+02:41:51:389 (00029268) > [Settings] 		RT Geometry Detail: High
+02:41:51:389 (00029268) > [Settings] 		RT Object Scale: 0.600000
+02:41:51:389 (00029268) > [Settings] 	Texture Quality: High
+02:41:51:389 (00029268) > [Settings] 	Texture Filtering: Anisotropic4x
+02:41:51:389 (00029268) > [Settings] 	Shadow Quality: High
+02:41:51:389 (00029268) > [Settings] 	Depth of Field: High
+02:41:51:389 (00029268) > [Settings] 	Level of Detail: High
+02:41:51:389 (00029268) > [Settings] 	Vehicle Detail: High
+02:41:51:389 (00029268) > [Settings] 	Crowd Detail: High
+02:41:51:389 (00029268) > [Settings] 	Hair Quality: High
+02:41:51:389 (00029268) > [Settings] 	Ambient Occlusion: SSAO
+02:41:51:389 (00029268) > [Settings] 	Screen Space Reflections: Low
+02:41:51:389 (00029268) > [Settings] 	Particle Lighting: High
+02:41:51:389 (00029268) > [Settings] 	Bloom: On
+02:41:51:389 (00029268) > [Settings] 	Vignette: On
+02:41:51:389 (00029268) > [Settings] 	Chromatic Aberration: On
+02:41:51:389 (00029268) > [Settings] 	Motion Blur: 1.000000
+02:41:51:389 (00029268) > [Settings] 	FOV Correction: 1.000000
+02:41:51:389 (00029268) > [Settings] 	Film Grain Strength: 1.000000
+02:41:51:389 (00029268) > [Settings] 	Sharpness: 1.000000
+02:41:51:389 (00029268) > [Settings] 	Lens Flares: On
+02:41:51:389 (00029268) > [Settings] 	Screen Effects: On
+02:41:51:389 (00029268) > [Settings] 	Screen Shake: On
+02:41:51:389 (00029268) > [**************************************************Display + Graphics Settings**************************************************] 
+02:41:51:389 (00029268) > [NxApp] Creating window...
+02:41:51:402 (00023364) > [GameWindow] UpdateState bVisible true
+02:41:51:431 (00029268) > [NxApp] Window created.
+02:41:51:431 (00029268) > [NxApp] Initializing swapchain...
+02:41:51:431 (00032012) > [SwapChain] Creating...
+02:41:51:431 (00032012) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 1920x1080
+02:41:51:431 (00032012) > [Upscaler] ConvertScreenToRenderRes: wxh = 1114x626 | min = 960x540 | max =  1920x1080
+02:41:51:471 (00032012) > [DXGI] Created swapchain.
+02:41:51:818 (00032012) > [SwapChain] Gamma correction is enabled.
+02:41:51:818 (00032012) > [SwapChain] Successfully created.
+02:41:51:818 (00032012) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 1920x1080
+02:41:51:818 (00032012) > [Upscaler] ConvertScreenToRenderRes: wxh = 1114x626 | min = 960x540 | max =  1920x1080
+02:41:51:818 (00029268) > [NxApp] Swapchain initialized
+02:41:51:818 (00029268) > [NxApp] Initializing renderer...
+02:41:51:818 (00029268) > [NxApp] Renderer initialized
+02:41:51:819 (00029268) > [NxStorage] Detected device at 'D:\Games\Marvel's Spider-Man 2', name 'QEMU HARDDISK   ', SSD: Yes, NVMe: No
+02:41:51:819 (00029268) > [NxStorage] Graphics device supports GPU decompression
+02:41:53:638 (00029268) > [NxStorage] DirectStorage initialization succeeded
+02:41:53:972 (00029268) > [Render] File cache.pso contains 12176 pipelines and 0 duplicates
+02:41:53:972 (00029268) > [Render] File C:\Users\Shadow\AppData\Roaming\Insomniac Games\Marvel's Spider-Man 2\\cache.pso is missing, no pipelines read.
+02:41:53:972 (00029268) > [Render] Support for Shader Model 6.6: Yes
+02:41:53:972 (00029268) > [Render] Is UMA: No Is Cache Coherent: No
+02:41:53:972 (00029268) > [Render] Managed Buffer Location: Video Memory
+02:41:54:693 (00004920) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+02:41:54:694 (00004920) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+02:41:54:695 (00004920) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+02:41:55:396 (00029268) > [PSNAccountLinking] [Steam Player] Steam module not found or exports not found.
+02:41:55:398 (00029268) > [PSNAccountLinking] [PSN] scePsPcInitialize failed: 8a80010d
+02:41:55:399 (00029268) > [PSNAccountLinking] [Steam Player] Steam module not found or exports not found.
+02:41:55:399 (00029268) > [PSNAccountLinking] [Steam Player] Steam module not found or exports not found.
+02:41:55:399 (00029268) > [PSNAccountLinking] PSNAccountLinking Init failed
+02:41:55:789 (00029268) > [Reflex] Sleep failed. Error:Result::eErrorMissingInputParameter
+02:41:55:791 (00029268) > [NxSteam] OnUserStatsReceived 2651280 1
+02:41:55:801 (00029252) > [Save] Loading Slotless: latest save Missing
+02:41:55:801 (00029252) > [Save] Slotless No saves found
+02:41:56:801 (00032012) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 1920x1080
+02:41:56:801 (00032012) > [Upscaler] ConvertScreenToRenderRes: wxh = 1114x626 | min = 960x540 | max =  1920x1080
+02:41:56:801 (00034412) > [NxReflex] Reflex support result:Result::eOk
+02:41:56:801 (00034412) > [NxReflex] DLSSG support result:Result::eErrorOSDisabledHWS
+02:41:56:801 (00034412) > [Settings] New display settings are:
+02:41:56:801 (00034412) > [**************************************************Display + Graphics Settings**************************************************] 
+02:41:56:801 (00034412) > [Settings] DirectX Version: 12
+02:41:56:801 (00034412) > [Settings] Window mode: Fullscreen
+02:41:56:801 (00034412) > [Settings] Fullscreen display mode:
+02:41:56:801 (00034412) > [Settings] 	Displaying on monitor: 0
+02:41:56:801 (00034412) > [Settings] 	Resolution: 1920x1080
+02:41:56:801 (00034412) > [Settings] 	Forced Aspect Ratio: Auto
+02:41:56:801 (00034412) > [Settings] 	HDR: Off
+02:41:56:801 (00034412) > [Settings] 	OS reported Refresh rate: 60
+02:41:56:801 (00034412) > [Settings] 	VSync: On
+02:41:56:801 (00034412) > [Settings] 	Reflex: Low Latency
+02:41:56:801 (00034412) > [Settings] 	Anti-Lag2: Off
+02:41:56:801 (00034412) > [Settings] 	Frame generation: None
+02:41:56:801 (00034412) > [Settings] 	Dynamic resolution FPS target: 60
+02:41:56:801 (00034412) > [Settings] Anti aliasing: DLAA
+02:41:56:801 (00034412) > [Settings] Upscale method: DLSS
+02:41:56:801 (00034412) > [Settings] Upscale quality: Dynamic
+02:41:56:801 (00034412) > [Settings] Upscale sharpen value: 0.000000
+02:41:56:801 (00034412) > [Settings] Graphics Options:
+02:41:56:801 (00034412) > [Settings] 	RT Reflections: Off
+02:41:56:801 (00034412) > [Settings] 	RT Interiors: Off
+02:41:56:801 (00034412) > [Settings] 	RT Shadows: Off
+02:41:56:801 (00034412) > [Settings] 	RT Ambient Occlusion: Off
+02:41:56:801 (00034412) > [Settings] 		RT Geometry Detail: High
+02:41:56:801 (00034412) > [Settings] 		RT Object Scale: 0.600000
+02:41:56:801 (00034412) > [Settings] 	Texture Quality: High
+02:41:56:801 (00034412) > [Settings] 	Texture Filtering: Anisotropic4x
+02:41:56:801 (00034412) > [Settings] 	Shadow Quality: High
+02:41:56:801 (00034412) > [Settings] 	Depth of Field: High
+02:41:56:801 (00034412) > [Settings] 	Level of Detail: High
+02:41:56:801 (00034412) > [Settings] 	Vehicle Detail: High
+02:41:56:801 (00034412) > [Settings] 	Crowd Detail: High
+02:41:56:801 (00034412) > [Settings] 	Hair Quality: High
+02:41:56:801 (00034412) > [Settings] 	Ambient Occlusion: SSAO
+02:41:56:801 (00034412) > [Settings] 	Screen Space Reflections: Low
+02:41:56:801 (00034412) > [Settings] 	Particle Lighting: High
+02:41:56:801 (00034412) > [Settings] 	Bloom: On
+02:41:56:801 (00034412) > [Settings] 	Vignette: On
+02:41:56:801 (00034412) > [Settings] 	Chromatic Aberration: On
+02:41:56:801 (00034412) > [Settings] 	Motion Blur: 1.000000
+02:41:56:801 (00034412) > [Settings] 	FOV Correction: 1.000000
+02:41:56:801 (00034412) > [Settings] 	Film Grain Strength: 1.000000
+02:41:56:801 (00034412) > [Settings] 	Sharpness: 1.000000
+02:41:56:801 (00034412) > [Settings] 	Lens Flares: On
+02:41:56:801 (00034412) > [Settings] 	Screen Effects: On
+02:41:56:801 (00034412) > [Settings] 	Screen Shake: On
+02:41:56:801 (00034412) > [**************************************************Display + Graphics Settings**************************************************] 
+02:41:56:801 (00034412) > [Settings] End of settings.
+02:41:56:801 (00034412) > [NxApp (Render Thread)] Finished enforcing display settings
+02:41:56:803 (00029268) > [NxApp] Finished enforcing display settings
+02:41:57:156 (00029252) > [Save] Loading Slotless: latest save Missing
+02:41:57:156 (00029252) > [Save] Slotless No saves found
+02:41:57:158 (00026616) > [Render] Quering NVAPI for GPU temperature
+02:41:57:164 (00026616) > [Render] Working set: 1646MB Page file: 11779MB Video Budget: 14368MB Video Usage: 4233MB Sys Budget: 7517MB Sys Usage: 475MB BVH heaps: 0MB BVH size: 0MB Demoted: 0MB fps: 0.1 GPU Temp: 41C
+02:41:57:171 (00029252) > [Save] Loading Slotless: latest save Missing
+02:41:57:171 (00029252) > [Save] Slotless No saves found
+02:42:07:191 (00033988) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+02:42:25:988 (00019400) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+02:42:25:988 (00019400) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+02:42:25:988 (00019400) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+02:42:38:974 (00023636) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+02:42:57:156 (00026616) > [Render] Quering NVAPI for GPU temperature
+02:42:57:156 (00026616) > [Render] Working set: 3796MB Page file: 13172MB Video Budget: 14368MB Video Usage: 4690MB Sys Budget: 7517MB Sys Usage: 668MB BVH heaps: 0MB BVH size: 0MB Demoted: 0MB fps: 58.2 GPU Temp: 42C
+02:43:04:116 (00013120) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+02:43:04:459 (00023636) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+02:43:04:459 (00023636) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+02:43:04:622 (00019400) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+02:43:04:622 (00019400) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+02:43:04:622 (00019400) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+02:43:04:623 (00019400) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+02:43:04:623 (00019400) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+02:43:05:577 (00019796) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+02:43:05:980 (00013120) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+02:43:07:136 (00019400) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+02:43:11:226 (00013120) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+02:43:13:718 (00029252) > [Save] Loading kLobbySlot: latest save Missing
+02:43:13:718 (00029252) > [Save] kLobbySlot No saves found
+02:43:13:746 (00029252) > [Save] Loading Slot 6: latest save Missing
+02:43:13:746 (00029252) > [Save] Slot 6 No saves found
+02:43:14:855 (00029252) > [Save] Loading Slot 5: latest save Missing
+02:43:14:855 (00029252) > [Save] Slot 5 No saves found
+02:43:14:886 (00029252) > [Save] Loading Slot 4: latest save Missing
+02:43:14:886 (00029252) > [Save] Slot 4 No saves found
+02:43:15:079 (00029252) > [Save] Loading Slot 3: latest save Missing
+02:43:15:079 (00029252) > [Save] Slot 3 No saves found
+02:43:15:140 (00029252) > [Save] Loading Slot 2: latest save Missing
+02:43:15:140 (00029252) > [Save] Slot 2 No saves found
+02:43:15:173 (00029252) > [Save] Loading Slot 1: latest save Missing
+02:43:15:173 (00029252) > [Save] Slot 1 No saves found
+02:43:15:207 (00029252) > [Save] Loading Debug Slot: latest save Missing
+02:43:15:207 (00029252) > [Save] Debug Slot No saves found
+02:43:15:406 (00029268) > [PSNAccountLinking] Analytics 0
+02:43:15:407 (00029268) > [PSNAccountLinking] [PSN] scePsPcSetDeviceDataCollectionSetting failed 8a80010d
+02:43:15:482 (00029268) > [Sound] Changing sound listening mode: 1
+02:43:25:215 (00013120) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+02:43:38:908 (00004920) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+02:43:47:145 (00033988) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+02:43:57:154 (00026616) > [Render] Quering NVAPI for GPU temperature
+02:43:57:154 (00026616) > [Render] Working set: 6014MB Page file: 16010MB Video Budget: 14368MB Video Usage: 6156MB Sys Budget: 7517MB Sys Usage: 893MB BVH heaps: 0MB BVH size: 0MB Demoted: 0MB fps: 52.2 GPU Temp: 51C
+02:43:58:761 (00029268) > [PSNAccountLinking] [PSN Linking] registration url only supported by steam platform
+02:44:06:384 (00029268) > [PSNAccountLinking] [PSN Linking] registration url only supported by steam platform
+02:44:06:398 (00029268) > [PSNAccountLinking] Analytics 1
+02:44:06:398 (00029268) > [PSNAccountLinking] [PSN] scePsPcSetDeviceDataCollectionSetting failed 8a80010d
+02:44:11:819 (00029268) > [PSNAccountLinking] [PSN Linking] registration url only supported by steam platform
+02:44:15:606 (00029268) > [PSNAccountLinking] [PSN Linking] registration url only supported by steam platform
+02:44:57:162 (00026616) > [Render] Quering NVAPI for GPU temperature
+02:44:57:162 (00026616) > [Render] Working set: 6099MB Page file: 17220MB Video Budget: 14368MB Video Usage: 7081MB Sys Budget: 7517MB Sys Usage: 899MB BVH heaps: 0MB BVH size: 0MB Demoted: 0MB fps: 59.1 GPU Temp: 45C
+02:45:57:151 (00026616) > [Render] Quering NVAPI for GPU temperature
+02:45:57:151 (00026616) > [Render] Working set: 6232MB Page file: 17555MB Video Budget: 14368MB Video Usage: 7460MB Sys Budget: 7517MB Sys Usage: 923MB BVH heaps: 0MB BVH size: 0MB Demoted: 0MB fps: 59.7 GPU Temp: 54C
+02:46:47:185 (00019796) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+02:46:47:993 (00013120) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+02:46:57:161 (00026616) > [Render] Quering NVAPI for GPU temperature
+02:46:57:161 (00026616) > [Render] Working set: 6810MB Page file: 18244MB Video Budget: 14368MB Video Usage: 7687MB Sys Budget: 7517MB Sys Usage: 923MB BVH heaps: 0MB BVH size: 0MB Demoted: 0MB fps: 58.8 GPU Temp: 53C
+02:47:57:161 (00026616) > [Render] Quering NVAPI for GPU temperature
+02:47:57:161 (00026616) > [Render] Working set: 6978MB Page file: 18182MB Video Budget: 14368MB Video Usage: 7495MB Sys Budget: 7517MB Sys Usage: 986MB BVH heaps: 0MB BVH size: 0MB Demoted: 0MB fps: 57.3 GPU Temp: 49C
+02:48:57:158 (00026616) > [Render] Quering NVAPI for GPU temperature
+02:48:57:159 (00026616) > [Render] Working set: 7087MB Page file: 18360MB Video Budget: 14368MB Video Usage: 7645MB Sys Budget: 7517MB Sys Usage: 1026MB BVH heaps: 0MB BVH size: 0MB Demoted: 0MB fps: 59.6 GPU Temp: 50C
+02:49:57:162 (00026616) > [Render] Quering NVAPI for GPU temperature
+02:49:57:162 (00026616) > [Render] Working set: 7165MB Page file: 18160MB Video Budget: 14368MB Video Usage: 7405MB Sys Budget: 7517MB Sys Usage: 1068MB BVH heaps: 0MB BVH size: 0MB Demoted: 0MB fps: 59.3 GPU Temp: 50C
+02:50:57:154 (00026616) > [Render] Quering NVAPI for GPU temperature
+02:50:57:154 (00026616) > [Render] Working set: 7206MB Page file: 18240MB Video Budget: 14368MB Video Usage: 7320MB Sys Budget: 7517MB Sys Usage: 1089MB BVH heaps: 0MB BVH size: 0MB Demoted: 0MB fps: 59.8 GPU Temp: 54C
+02:51:30:414 (00023636) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+02:51:57:160 (00026616) > [Render] Quering NVAPI for GPU temperature
+02:51:57:161 (00026616) > [Render] Working set: 7334MB Page file: 18612MB Video Budget: 14368MB Video Usage: 7639MB Sys Budget: 7517MB Sys Usage: 1129MB BVH heaps: 0MB BVH size: 0MB Demoted: 0MB fps: 59.7 GPU Temp: 52C
+02:52:57:153 (00026616) > [Render] Quering NVAPI for GPU temperature
+02:52:57:153 (00026616) > [Render] Working set: 7414MB Page file: 18946MB Video Budget: 14368MB Video Usage: 7865MB Sys Budget: 7517MB Sys Usage: 1190MB BVH heaps: 0MB BVH size: 0MB Demoted: 0MB fps: 59.6 GPU Temp: 53C
+02:53:57:150 (00026616) > [Render] Quering NVAPI for GPU temperature
+02:53:57:150 (00026616) > [Render] Working set: 7310MB Page file: 18798MB Video Budget: 14368MB Video Usage: 7700MB Sys Budget: 7517MB Sys Usage: 1210MB BVH heaps: 0MB BVH size: 0MB Demoted: 0MB fps: 58.8 GPU Temp: 54C
+02:54:27:261 (00023636) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+02:54:57:161 (00026616) > [Render] Quering NVAPI for GPU temperature
+02:54:57:162 (00026616) > [Render] Working set: 7440MB Page file: 18884MB Video Budget: 14368MB Video Usage: 7748MB Sys Budget: 7517MB Sys Usage: 1130MB BVH heaps: 0MB BVH size: 0MB Demoted: 0MB fps: 55.0 GPU Temp: 54C
+02:55:03:056 (00023636) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+02:55:57:153 (00026616) > [Render] Quering NVAPI for GPU temperature
+02:55:57:153 (00026616) > [Render] Working set: 6786MB Page file: 18836MB Video Budget: 14368MB Video Usage: 7636MB Sys Budget: 7517MB Sys Usage: 1090MB BVH heaps: 0MB BVH size: 0MB Demoted: 0MB fps: 58.8 GPU Temp: 53C
+02:56:57:154 (00026616) > [Render] Quering NVAPI for GPU temperature
+02:56:57:154 (00026616) > [Render] Working set: 6749MB Page file: 18565MB Video Budget: 14368MB Video Usage: 7467MB Sys Budget: 7517MB Sys Usage: 1091MB BVH heaps: 0MB BVH size: 0MB Demoted: 0MB fps: 59.5 GPU Temp: 53C
+02:57:57:159 (00026616) > [Render] Quering NVAPI for GPU temperature
+02:57:57:159 (00026616) > [Render] Working set: 6743MB Page file: 18486MB Video Budget: 14368MB Video Usage: 7365MB Sys Budget: 7517MB Sys Usage: 1052MB BVH heaps: 0MB BVH size: 0MB Demoted: 0MB fps: 59.6 GPU Temp: 52C
+02:58:57:151 (00026616) > [Render] Quering NVAPI for GPU temperature
+02:58:57:151 (00026616) > [Render] Working set: 6774MB Page file: 18650MB Video Budget: 14368MB Video Usage: 7336MB Sys Budget: 7517MB Sys Usage: 1074MB BVH heaps: 0MB BVH size: 0MB Demoted: 0MB fps: 59.8 GPU Temp: 54C
+02:58:58:637 (00023636) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+02:59:57:149 (00026616) > [Render] Quering NVAPI for GPU temperature
+02:59:57:149 (00026616) > [Render] Working set: 6780MB Page file: 18785MB Video Budget: 14368MB Video Usage: 7647MB Sys Budget: 7517MB Sys Usage: 1060MB BVH heaps: 0MB BVH size: 0MB Demoted: 0MB fps: 59.6 GPU Temp: 54C
+03:00:57:162 (00026616) > [Render] Quering NVAPI for GPU temperature
+03:00:57:162 (00026616) > [Render] Working set: 5454MB Page file: 18773MB Video Budget: 14368MB Video Usage: 7664MB Sys Budget: 7517MB Sys Usage: 1080MB BVH heaps: 0MB BVH size: 0MB Demoted: 0MB fps: 58.7 GPU Temp: 54C
+03:01:57:150 (00026616) > [Render] Quering NVAPI for GPU temperature
+03:01:57:150 (00026616) > [Render] Working set: 5516MB Page file: 18829MB Video Budget: 14368MB Video Usage: 7652MB Sys Budget: 7517MB Sys Usage: 1140MB BVH heaps: 0MB BVH size: 0MB Demoted: 0MB fps: 59.9 GPU Temp: 55C
+03:02:57:162 (00026616) > [Render] Quering NVAPI for GPU temperature
+03:02:57:162 (00026616) > [Render] Working set: 5520MB Page file: 18887MB Video Budget: 14368MB Video Usage: 7729MB Sys Budget: 7517MB Sys Usage: 1140MB BVH heaps: 0MB BVH size: 0MB Demoted: 0MB fps: 59.4 GPU Temp: 53C
+03:03:30:822 (00029268) > [App] Quit requested from pause menu
+03:03:31:437 (00029268) > [NxApp] Destroying
+03:03:31:463 (00029268) > [DXGI] Destroyed swapchain.
+03:03:31:463 (00029268) > [SwapChain] Destroyed.
+03:03:31:463 (00029268) > [SwapChain] Released.
+03:03:31:463 (00029268) > [Render] Unloading NVAPI
+03:03:31:466 (00029268) > [Render] Done unloading NVAPI
+03:03:31:471 (00029268) > [DXGI] Destroyed swapchain.
+03:03:31:471 (00029268) > [DXGI] Released.
