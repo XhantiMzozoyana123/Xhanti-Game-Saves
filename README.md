@@ -17,6 +17,8 @@ read from their normal locations.
 | `Need For Speed Unbound/Documents/SaveGame` | `C:\Users\Shadow\Documents\Need For Speed(TM) Unbound\SaveGame` |
 | `Need For Speed Unbound/Documents/settings` | `C:\Users\Shadow\Documents\Need For Speed(TM) Unbound\settings` |
 | `DOOM The Dark Ages/Saved Games/id Software` | `C:\Users\Shadow\Saved Games\id Software` |
+| `Dragon Ball Z - Kakarot/Steam RUNE 851850` | `C:\Users\Public\Documents\Steam\RUNE\851850` (autosave/manual/system saves + achievements) |
+| `Dragon Ball Z - Kakarot/AppData AT/Saved/Config` | `C:\Users\Shadow\AppData\Local\AT\Saved\Config` (game settings) |
 | `Steam Emulator/Goldberg SteamEmu Saves` | `C:\Users\Shadow\AppData\Roaming\Goldberg SteamEmu Saves` |
 | `Steam Emulator/GSE Saves` | `C:\Users\Shadow\AppData\Roaming\GSE Saves` |
 
